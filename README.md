@@ -1,4 +1,4 @@
-# Music Player ising Media3 in android
+# Music Player using Media3 in android
 A Music Player built with Jetpack compose and media3/Exoplayer
 
 ## Features
