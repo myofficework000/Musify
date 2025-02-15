@@ -38,4 +38,12 @@ This Music Player integrates with PlayerNotificationManager from ExoPlayer to pr
 
 ![image](https://github.com/myofficework000/Musify/assets/51234843/5d7d7c00-ed61-4bdc-8b4f-7dc8d706d498)
 
-Connect with me for more like this https://www.linkedin.com/in/myofficework/
+
+### Contact - Let's become friend
+- [Github](https://github.com/cheetahmail007)
+- [Linkedin](https://www.linkedin.com/in/myofficework/)
+- [MEDIUM](https://medium.com/@myofficework000)
+
+<p>
+Don't forget to star ⭐ the repo it motivates me to share more open source
+</p>
